@@ -1,5 +1,5 @@
  Hello! 
  I Hi, I’m Paii,
- a data enthusiast from Mauritius. I enjoy building web applications that use data to solve problems and create value for users. 
- I have experience in working with Python.
+ a college student and data enthusiast from Mauritius. I enjoy writing programs to solve problems. 
+ I have experience in working with Python at an intermedate level.
  
